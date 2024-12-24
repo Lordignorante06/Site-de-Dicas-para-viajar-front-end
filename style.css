@@ -130,3 +130,10 @@ h2 {
   text-align: center;
   font-style: italic;
 }
+footer{
+  color: #333333;
+  text-align: center;
+}
+footer img {
+  vertical-align: middle; 
+}
