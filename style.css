@@ -74,8 +74,9 @@ h2 {
   margin-bottom: 4px;
 }
 #paragrafo-Haedong{
-  font-family: Arial;
+  font-family: "Open Sans", Arial;  
   color: #333333;
+  height: 88px;
 }
 #paragrafo-Haedong-segundo{
   font-family: "Open Sans", Arial, serif;
@@ -91,11 +92,11 @@ h2 {
 }
 /*h3 do templo-beomemo-sa está com id, está lá emcima*/
 #paragrafo1-Templo-Beomeo-sa{
-  font-family: Arial;
+  font-family: "Open Sans", Arial; 
   color: #333333; 
 }
 #paragrafo1-Templo-Beomeo-sa{
-  font-family: Arial;
+  font-family: "Open Sans", Arial;
   color: #1B1B1B; 
 }
 #lista-iguais{  /*ul dos templos*/
@@ -109,7 +110,7 @@ h2 {
   margin-top: 48px;
 }
 #paragrado1-parque-yongdusan{
-  font-family: Arial;
+  font-family: "Open Sans", Arial; 
   color: #333333;
 
 }
