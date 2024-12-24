@@ -101,3 +101,32 @@ h2 {
 #lista-iguais{  /*ul dos templos*/
   color: #0C51A7;
 }
+#parque-yongdusan{
+  height: 350px;
+  width: 100%;
+  border-radius: 28px;
+  margin-bottom: 20px;
+  margin-top: 48px;
+}
+#paragrado1-parque-yongdusan{
+  font-family: Arial;
+  color: #333333;
+
+}
+/*li da lista (ul)*/
+#casais{
+  color: #591B98;
+}
+#familias{
+  color: #E5245E;
+}
+#orçamento{
+  color: #E95E10;
+}
+#ultimo-p {
+  margin-top: 40px;
+  font-family: Arial;
+  color: #333333;
+  text-align: center;
+  font-style: italic;
+}
